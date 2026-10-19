@@ -83,4 +83,4 @@ were made in the [Azahar](https://azahar-emu.org) emulator.
 - MP3 decoding: [minimp3](https://github.com/lieff/minimp3) (CC0)
 - Image decoding: [stb_image](https://github.com/nothings/stb) (public domain)
 - Built with [libctru](https://github.com/devkitPro/libctru), citro2d and citro3d
-- App and artwork by Nova White
+- App and artwork by Nova White (novaMajora)
